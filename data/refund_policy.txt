@@ -1,0 +1,9 @@
+Billing Policy
+
+Invoices are generated monthly.
+
+Payment failures may occur due to insufficient funds.
+
+Duplicate charges should be reported within 7 days.
+
+Billing issues require human review.

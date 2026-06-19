@@ -1,0 +1,8 @@
+Token Authentication
+
+Bearer tokens must be included in every API request.
+
+Header:
+Authorization: Bearer TOKEN
+
+Expired tokens must be regenerated.

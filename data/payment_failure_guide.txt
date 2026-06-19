@@ -1,0 +1,8 @@
+Payment Failure Guide
+
+Payment failures may occur due to:
+- Expired cards
+- Insufficient balance
+- Bank restrictions
+
+Contact your bank if the issue persists.

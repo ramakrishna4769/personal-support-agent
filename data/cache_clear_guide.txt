@@ -1,0 +1,7 @@
+Cache Clearing Guide
+
+Chrome:
+Settings → Privacy → Clear Browsing Data
+
+Firefox:
+Settings → Privacy → Clear Data

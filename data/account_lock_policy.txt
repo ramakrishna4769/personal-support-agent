@@ -1,0 +1,4 @@
+Account Lock Policy
+
+Accounts may be locked after five failed login attempts.
+Wait 30 minutes or contact support.
